@@ -8,3 +8,8 @@ made headers with # from a 1 # header to a 6 # header
 
 # here's an image of a cat
 ![cat](https://octodex.github.com/images/yaktocat.png)
+
+# here's some code
+``` python
+show_of_code = 'Hello world!'
+```
