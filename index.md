@@ -13,3 +13,7 @@ made headers with # from a 1 # header to a 6 # header
 ``` python
 show_of_code = 'Hello world!'
 ```
+# here's a list of things
+- [X] start this github thing
+- [X] start doing this github thing
+- [ ] finish up this github thing
