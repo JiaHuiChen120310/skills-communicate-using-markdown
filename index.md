@@ -5,3 +5,6 @@
 ##### 5 # header
 ###### 6 # header
 made headers with # from a 1 # header to a 6 # header
+
+# here's an image of a cat
+![cat](https://octodex.github.com/images/yaktocat.png)
